@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
-
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
@@ -17,26 +17,26 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
+    name   : 'Septiar',
     title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+    email  : 'septiarmustafa@gmail.com',
+    website: 'https://septiar.netlify.app',
+    married: false,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\septiar-mustafa> node index.js
+Hi, my name is Septiar, I'm a Full Stack Developer from Indonesia.
 ```
 
 <div align="center">
 
- ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
+ ![Followers](https://img.shields.io/github/followers/septiarmustafa?label=Followers) ![Stars](https://img.shields.io/github/stars/septiarmustafa?label=Stars)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=septiarmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="septiarmustafa" /> </p>
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION-->
 **I'm an Early 🐤** 
 
 ```text
@@ -53,23 +53,25 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               21 hrs 22 mins      █████████████████░░░░░░░░   68.89 % 
-JSON                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Prisma                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Dart                     21 hrs 22 mins      █████████████████░░░░░░░░   68.89 % 
+Javascript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Java                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Kotlin                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+C#                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  45 hrs 1 min        ███████████████░░░░░░░░░░   57.90 %
+Intellij IDEA            15 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   20.24 %
+Android Studio           10 hrs 30 min       █████░░░░░░░░░░░░░░░░░░░░   16.26 %
+Rider                    5 hrs 30 min        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 💻 Operating System: 
-Windows                  30 hrs 42 mins      █████████████████████████   98.95 % 
-Linux                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Windows                  40 hrs 0 mins       ██████████████░░░░░░░░░░░   50.00 % 
+Linux                    40 hrs 0 mins       ██████████████░░░░░░░░░░░   50.00 % 
 ```
 
-
- Last Updated on 18-03-2024 17:21:11 UTC
-<!--END_SECTION:waka-->
+ Last Updated on 19-03-2024 17:21:11 UTC
+<!--END_SECTION-->
   
 </div>
 
@@ -95,11 +97,12 @@ Linux                    19 mins             ░░░░░░░░░░░�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=septiarmustafa&hide_border=true&type=png%22%20alt=%22Septiar-mustafa%22"/></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+<!--
 <h3 align="center">⭐My Favorite Repo⭐</h3>
 
 <div>
@@ -123,6 +126,7 @@ Linux                    19 mins             ░░░░░░░░░░░�
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
     	</a>
 </div>
+-->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -156,10 +160,6 @@ Linux                    19 mins             ░░░░░░░░░░░�
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
