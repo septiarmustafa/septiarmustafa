@@ -166,7 +166,12 @@ Last Updated on 19-03-2024 17:21:11 UTC
 <img src="/assets/images/horizontal-divider-gradient.gif">
 -->
 
+<div align="center">
+	
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+</div>
+
 
 
 <!--x axis divider
