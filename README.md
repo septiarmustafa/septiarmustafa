@@ -91,7 +91,7 @@ Last Updated on 19-03-2024 17:21:11 UTC
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,java,kotlin,dart,cs,tailwindcss,bootstrap,flutter,react,spring,dotnet,mysql,postgres,docker,firebase,hibernate,figma,postman,git,github,gitlab,vscode,androidstudio,idea,rider,linux&perline=6" />
 </a>
 </p>
 
@@ -166,7 +166,8 @@ Last Updated on 19-03-2024 17:21:11 UTC
 <img src="/assets/images/horizontal-divider-gradient.gif">
 -->
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/septiarmustafa/septiarmustafa/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
 
 <!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
