@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Septiar</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=false&vCenter=true&width=420&lines=Fullstack+Developer+with+True+Passion)](https://git.io/typing-svg)
 
 <!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -36,6 +36,7 @@ Hi, my name is Septiar, I'm a Full Stack Developer from Indonesia.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=septiarmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="septiarmustafa" /> </p>
 
 
+----
 <!--START_SECTION-->
 **I'm an Early 🐤** 
 
@@ -46,6 +47,7 @@ Hi, my name is Septiar, I'm a Full Stack Developer from Indonesia.
 🌙 Night                  661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 ```
 
+----
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,13 +72,15 @@ Windows                  40 hrs 0 mins       ███████████�
 Linux                    40 hrs 0 mins       ██████████████░░░░░░░░░░░   50.00 % 
 ```
 
- Last Updated on 19-03-2024 17:21:11 UTC
+Last Updated on 19-03-2024 17:21:11 UTC
 <!--END_SECTION-->
-  
 </div>
 
-<!--x axis divider-->
+----
+
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -91,16 +95,20 @@ Linux                    40 hrs 0 mins       ███████████�
 </a>
 </p>
 
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
+
+----
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center"><img src="https://streak-stats.demolab.com/?user=septiarmustafa&hide_border=true&type=png%22%20alt=%22Septiar-mustafa%22"/></p>
 
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
 
 <!--
 <h3 align="center">⭐My Favorite Repo⭐</h3>
@@ -128,39 +136,38 @@ Linux                    40 hrs 0 mins       ███████████�
 </div>
 -->
 
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
+
+----
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
+	
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/septiar-mustafa-26a121176)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/septiarmustafa)
 </div>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+----
 
-<!-- Support me -->
+<!--x axis divider
+<img src="/assets/images/horizontal-divider-gradient.gif">
+-->
+
+<!-- Support me
 <h3 align="center">☕Support Me☕</h3>
-
 <div align="center">
-  
 [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+-->
 
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
+-->
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/septiarmustafa/septiarmustafa/output/github-snake.svg)
 
-<!--x axis divider-->
+<!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
+-->
