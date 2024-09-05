@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Septiar</h1>
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=false&vCenter=true&width=420&lines=Fullstack+Developer+with+True+Passion)](https://git.io/typing-svg)
--->
 
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=false&vCenter=true&width=420&lines=Fullstack+Developer+with+True+Passion)](https://git.io/typing-svg)
 
 <!--x axis divider
 <img src="/assets/images/horizontal-divider-gradient.gif">
 -->
 
+<!--
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
+-->
 
 ```js
 "use creativity";
