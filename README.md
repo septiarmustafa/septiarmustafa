@@ -94,7 +94,7 @@ Last Updated on 19-03-2024 17:21:11 UTC
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,java,kotlin,dart,cs,tailwindcss,bootstrap,flutter,react,spring,dotnet,mysql,postgres,docker,firebase,hibernate,figma,postman,git,github,gitlab,vscode,androidstudio,idea,rider,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,java,spring,html,css,js,vite,react,kotlin,cs,dotnet,postgres,git,vscode,androidstudio,idea,rider&perline=6" />
 </a>
 </p>
 
